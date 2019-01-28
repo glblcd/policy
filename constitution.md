@@ -156,11 +156,11 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
   (4) **First charity trustees**
 
-    The first charity trustees are as follows, and are appointed for the following terms -
+  The first charity trustees are as follows, and are appointed for the following terms -
 
-      SAM MOORHOUSE   -- for 4 years
-      JAMES BELSEY    -- for 3 years
-      CHELSEY ROEBUCK -- for 2 years
+    SAM MOORHOUSE   -- for 4 years
+    JAMES BELSEY    -- for 3 years
+    CHELSEY ROEBUCK -- for 2 years
 
 ## 10. Appointment of charity trustees 
 
@@ -170,11 +170,11 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
 ## 11. Information for new charity trustees
   
-  The charity trustees will make available to each new charity trustee, on or before his or her first appointment:
+The charity trustees will make available to each new charity trustee, on or before his or her first appointment:
 
-    (a) a copy of the currect version of this constitution; and
+  (a) a copy of the currect version of this constitution; and
 
-    (b) a copy of the CIO's latest trustees Annual Report and statement of accounts.
+  (b) a copy of the CIO's latest trustees Annual Report and statement of accounts.
 
 ## 12. Retirement and removal of charity trustees
 
@@ -196,13 +196,13 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
 Any decision may be taken either:
 
-  ** at a meeting of all the charity trustees; or
+  * at a meeting of all the charity trustees; or
 
-  ** by resolution in writing or electronic form agreed by a majority of all the charity trustees, which may comprise either a single document or several documents containing the text of the resolution in like form to which the majority of all of the charity trustees has signified their agreement. Such a resolution shall be effective provided that
+  * by resolution in writing or electronic form agreed by a majority of all the charity trustees, which may comprise either a single document or several documents containing the text of the resolution in like form to which the majority of all of the charity trustees has signified their agreement. Such a resolution shall be effective provided that
 
-    ** a copy of the proposed resolution has been sent, at or as near as reasonably practical to the same time, to all of the charity trustees; and
+    * a copy of the proposed resolution has been sent, at or as near as reasonably practical to the same time, to all of the charity trustees; and
 
-    ** the majority of all of the charity trustees has signified agreement to the resolution in a document or documents which has or have been authenticated by their signature, by a statement of their identity accompanying the document or documents, or in such other manner as the charity trustees have previously resolved, and delivered to the CIO at its principal office or other such place as the trustees may resolve within 28 days of the circulation date.
+    * the majority of all of the charity trustees has signified agreement to the resolution in a document or documents which has or have been authenticated by their signature, by a statement of their identity accompanying the document or documents, or in such other manner as the charity trustees have previously resolved, and delivered to the CIO at its principal office or other such place as the trustees may resolve within 28 days of the circulation date.
 
 ## 14. Delegation by charity trustees
   
@@ -309,11 +309,11 @@ The resolution in writing may compromise several copies to which one or more mem
 
   (1) Subject to sub-clause (2) of this clause, all decisions of the charity trustees, or of a committee of charity trustees, shall be valid notwithstanding the participation in any vote of a charity trustee:
 
-    ** who was disqualified from holding office;
+    * who was disqualified from holding office;
 
-    ** who had previously retired or who had been obliged by the constitution to vacate office;
+    * who had previously retired or who had been obliged by the constitution to vacate office;
 
-    ** who was not entitled to vote on the matter, whether by reasonof a conflict of interest or otherwise;
+    * who was not entitled to vote on the matter, whether by reasonof a conflict of interest or otherwise;
   
   if, without the vote of that charity trustee and that charity trustee being counted in the quorum, the decision has been made by a majority of the charity trustees at a quorate meeting.
 
@@ -357,11 +357,11 @@ The charity trustees must keep minutes of all:
 
   (3) meetings of the charity trustees and committees of charity trustees including:
 
-    ** the names of the trustees present at the meeting;
+    * the names of the trustees present at the meeting;
 
-    ** the decisions made at the meetings; and
+    * the decisions made at the meetings; and
 
-    ** where appropriate the reasons for the decisions;
+    * where appropriate the reasons for the decisions;
 
   (4) decisions made by the charity trustees otherwise than in meetings.
 
