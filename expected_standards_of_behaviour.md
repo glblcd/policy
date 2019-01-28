@@ -20,6 +20,6 @@ We ask you to read and agree to it also:
 
 Out of the classroom, we’re representing ourselves, our country, Global Code, and our employees and sponsors. Please keep this in mind when you’re enjoying a drink at the end of a long day, heading out of town for the weekend, or in the lounge on the way home.
 
-Finally, recent media reports have highlighted instances of extremely questionable behaviour concerning charity workers and prostitutes in third world countries. Behaviour of this kind is completely unacceptable and will not be tolerated. Any reports of such behaviour, or anything similar, will be investigated immediately and may be reported directly to the authorities both locally and in the UK.
+Finally, recent media reports have highlighted instances of extremely questionable behaviour concerning charity workers and prostitutes in developing countries. Behaviour of this kind is completely unacceptable and will not be tolerated. Any reports of such behaviour, or anything similar, will be investigated immediately and may be reported directly to the authorities both locally and in the UK.
 
 West Africa is a beautiful, interesting, fun part of the world and I’m so pleased that you’re joining us. Excellent behaviour on your part gives us the credibility and goodwill we need to carry on this good work and to grow every year.
