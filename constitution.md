@@ -1,4 +1,4 @@
-#Constitution of a Charitable Incorporated Organisation whose only voting members are its charity trustees
+# Constitution of a Charitable Incorporated Organisation whose only voting members are its charity trustees
 
 ## ('Foundation' model constitution)
 
@@ -36,9 +36,9 @@ The CIO has power to do anything which is calculated to further its object or is
 
   (1) The income and property of the CIO must be applied solely towards the promotion of the objects.
 
-    (a) A charity trustee is entitled to be reimbursed from the property of the CIO or may pay out of such property reasonable expenses properly incurred by him or her when acting on behalf of the CIO.
+   (a) A charity trustee is entitled to be reimbursed from the property of the CIO or may pay out of such property reasonable expenses properly incurred by him or her when acting on behalf of the CIO.
 
-    (b) A charity trustee may benefit from trustee indemnity insurance cover purchased at the CIO's expense in accordance with, and subject to the conditions in, section 189 of the Charities Act 2011.
+   (b) A charity trustee may benefit from trustee indemnity insurance cover purchased at the CIO's expense in accordance with, and subject to the conditions in, section 189 of the Charities Act 2011.
 
   (2) None of the income or property of the CIO may be paid or transferred directly or indirectly by way of divident, bonus or otherwise by way of profit to any member of the CIO.
 
