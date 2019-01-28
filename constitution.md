@@ -36,9 +36,9 @@ The CIO has power to do anything which is calculated to further its object or is
 
   (1) The income and property of the CIO must be applied solely towards the promotion of the objects.
 
-   (a) A charity trustee is entitled to be reimbursed from the property of the CIO or may pay out of such property reasonable expenses properly incurred by him or her when acting on behalf of the CIO.
+     (a) A charity trustee is entitled to be reimbursed from the property of the CIO or may pay out of such property reasonable expenses properly incurred by him or her when acting on behalf of the CIO.
 
-   (b) A charity trustee may benefit from trustee indemnity insurance cover purchased at the CIO's expense in accordance with, and subject to the conditions in, section 189 of the Charities Act 2011.
+     (b) A charity trustee may benefit from trustee indemnity insurance cover purchased at the CIO's expense in accordance with, and subject to the conditions in, section 189 of the Charities Act 2011.
 
   (2) None of the income or property of the CIO may be paid or transferred directly or indirectly by way of divident, bonus or otherwise by way of profit to any member of the CIO.
 
@@ -50,13 +50,13 @@ The CIO has power to do anything which is calculated to further its object or is
 
   No charity trustee or connected person may:
     
-    (a) buy or receive any goods or services from the CIO on terms preferential to those applicable to members of the public;
+     (a) buy or receive any goods or services from the CIO on terms preferential to those applicable to members of the public;
 
-    (b) sell goods, services, or any interest in land to the CIO;
+     (b) sell goods, services, or any interest in land to the CIO;
 
-    (c) be employed by, or receive any remuneration from, the CIO;
+     (c) be employed by, or receive any remuneration from, the CIO;
 
-    (d) receive any other financial benefit from the CIO;
+     (d) receive any other financial benefit from the CIO;
 
   unless the payment or benefit is permitted by sub-clause (2) of this clause or authorised by the court or th prior written consent of the Charity Commission ("the Commission") has been obtained. In this clause, a "financial benefit" means a benefit, direct or indirect, which is either money or has a monetary value.
 
