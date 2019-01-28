@@ -6,7 +6,7 @@ Global Code takes volunteers to West Africa for three weeks every July, to teach
 
 We are a charity registered in the UK, number 1176504
 
-Computing is a very modern pursuit and Ghana is, in many ways, a very conservative country. We need to be mindful of the fact that attitudes towards gender, sexuality and age amongst our students and our hosts at universities may be different to ours. We ought to be respectful of social mores and avoid causing offense or hurt.
+Computing is a very modern pursuit and Nigeria and Ghana are very conservative countries. We need to be mindful of the fact that attitudes towards gender, sexuality and age amongst our students and our hosts at universities may be different to ours. We ought to be respectful of social mores and avoid causing offense or hurt.
 
 At the same time, we should stand for what we believe is right, press for positive social change, engage in positive encouragement and set a good example of behaviour for students who are learning to follow our craft.
 
