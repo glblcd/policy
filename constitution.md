@@ -46,7 +46,7 @@ The CIO has power to do anything which is calculated to further its object or is
 
 ## 6. Benefits and payments to charity trustees and connected persons
 
-  (1) *General provisions*
+  (1) **General provisions**
 
   No charity trustee or connected person may:
     
@@ -60,7 +60,7 @@ The CIO has power to do anything which is calculated to further its object or is
 
   unless the payment or benefit is permitted by sub-clause (2) of this clause or authorised by the court or th prior written consent of the Charity Commission ("the Commission") has been obtained. In this clause, a "financial benefit" means a benefit, direct or indirect, which is either money or has a monetary value.
 
-  (2) *Scope and powers permitting trustees' or connected persons' Benefits*
+  (2) **Scope and powers permitting trustees' or connected persons' Benefits**
 
     (a) A charity trustee or connected person may receive a benefit from the CIO as a beneficiary of the CIO provided that a majority of the trustees do not benefit in this way.
 
@@ -74,7 +74,7 @@ The CIO has power to do anything which is calculated to further its object or is
 
     (f) A charity trustee or connected person may take part in the normal trading and fundraising activities of the CIO on the same terms as members of the public.
 
-  (3) *Payment for supply of goods only -- controls*
+  (3) **Payment for supply of goods only -- controls**
 
   The CIO and its charity trustees may only reoly on the authority provided by sub-clause (2)(c) of this clause if each of the following conditions is satisfied:
 
@@ -120,7 +120,7 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
 ## 9. Charity trustees
 
-  (1) *Function and duties of charity trustees*
+  (1) **Function and duties of charity trustees**
 
   The charity trustees shall manage the affairs of the CIO and may for that purpose exercise all powers of the CIO. It is the duty of each charity trustee:
 
@@ -132,7 +132,7 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
       (ii) if he or she acts as a charity trustee of the CIO in the course of a business or profession, to any special knowledge or experience that it is reasonable to expect of a person acting in the course of that kind of business or profession.
 
-  (2) *Eligibility for trusteeship*
+  (2) **Eligibility for trusteeship**
 
     (a) Every charity trustee must be a natural person.
 
@@ -146,7 +146,7 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
     (d) At least one of the trustees of the CIO must be 18 years of age or over. If there is no trustee aged at least 18 years, the remaining trustees may only act to call a meeting of the charity trustees, or appoint a new charity trustee.
 
-  (3) *Number of charity trustees*
+  (3) **Number of charity trustees**
 
     Option 1
   
@@ -154,7 +154,7 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
     (b) There is no maximum number of charity trustees that may be appointed to the CIO.
 
-  (4) *First charity trustees*
+  (4) **First charity trustees**
 
     The first charity trustees are as follows, and are appointed for the following terms -
 
@@ -196,13 +196,13 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 
 Any decision may be taken either:
 
-  * at a meeting of all the charity trustees; or
+  ** at a meeting of all the charity trustees; or
 
-  * by resolution in writing or electronic form agreed by a majority of all the charity trustees, which may comprise either a single document or several documents containing the text of the resolution in like form to which the majority of all of the charity trustees has signified their agreement. Such a resolution shall be effective provided that
+  ** by resolution in writing or electronic form agreed by a majority of all the charity trustees, which may comprise either a single document or several documents containing the text of the resolution in like form to which the majority of all of the charity trustees has signified their agreement. Such a resolution shall be effective provided that
 
-    * a copy of the proposed resolution has been sent, at or as near as reasonably practical to the same time, to all of the charity trustees; and
+    ** a copy of the proposed resolution has been sent, at or as near as reasonably practical to the same time, to all of the charity trustees; and
 
-    * the majority of all of the charity trustees has signified agreement to the resolution in a document or documents which has or have been authenticated by their signature, by a statement of their identity accompanying the document or documents, or in such other manner as the charity trustees have previously resolved, and delivered to the CIO at its principal office or other such place as the trustees may resolve within 28 days of the circulation date.
+    ** the majority of all of the charity trustees has signified agreement to the resolution in a document or documents which has or have been authenticated by their signature, by a statement of their identity accompanying the document or documents, or in such other manner as the charity trustees have previously resolved, and delivered to the CIO at its principal office or other such place as the trustees may resolve within 28 days of the circulation date.
 
 ## 14. Delegation by charity trustees
   
@@ -218,17 +218,17 @@ Any decision may be taken either:
 
 ## 15. Meetings of charity trustees
 
-  (1) *Calling meetings*
+  (1) **Calling meetings**
 
     (a) Any charity trustee may call a meeting of the charity trustees.
 
     (b) Subject to that, the charity trustees shall decide how their meetings are to be called, and what notice is required.
 
-  (2) *Chairing of meetings*
+  (2) **Chairing of meetings**
 
   The charity trustees may appoint one of their number to chair their meetings and may at any time revoke such appointment. If no-one has been so appointed, or if the person appointed is unwilling to preside or is not present within 10 minutes after the time of the meeting, the charity trustees present may appoint one of their number to chair that meeting.
 
-  (3) *Procedure at meetings*
+  (3) **Procedure at meetings**
 
     (a) No decision shall be taken at a meeting unless a quorum is present at the time when the decision is taken. The quorum is two charity trustees, or the number nearest to one third of the total number of trustees, whicheveer is greater, or such larger number as the charity trustees may determine from time to time. A charity trustee shall not be counted in the quorum present when any decision is made about a matter upon which he or she is not entitled to vote.
 
@@ -236,7 +236,7 @@ Any decision may be taken either:
 
     (c) In the case of an equality of votes, the person who chairs the meeting shall have a second or casting vote.
 
-  (4) *Participation in meetings by electronic means.*
+  (4) **Participation in meetings by electronic means.**
 
     (a) A meeting may be held by suitable electronic means agreed by the charity trustees in which each participant may communicate with all the other participants.
 
@@ -287,11 +287,11 @@ The resolution in writing may compromise several copies to which one or more mem
 
 ## 19. General meetings of members
 
-  (1) *Calling of general meetings of members*
+  (1) **Calling of general meetings of members**
 
   The charity trustees may designate any of their meetings as a general meeting of the members of the CIO. The purpose of such a meeting is to discharge any business which must by law be discharged by a resolution of the members of the CIO as specified in clause 18 (Decisions which must be made by members of the CIO).
 
-  (2) *Notice of general meetings of members*
+  (2) **Notice of general meetings of members**
 
     (a) The minimum period of notice required to hold a general meeting of the members of the CIO is 14 days.
 
@@ -299,7 +299,7 @@ The resolution in writing may compromise several copies to which one or more mem
 
     (c) Proof that an envelope containing a notice was properly addressed, prepaid and posted; or that an electronic form of notice was properly addressed and sent, shall be conclusive evidence that the notice was given. Notice shall be deemed to be given 48 hours after it was posted or sent.
 
-  (3) *Procedure at general meetings of members*
+  (3) **Procedure at general meetings of members**
 
   The provisions in clause 15 (2)-(4) governing the chairing of meetings, procedure at meetings and participation in meetings by electronic means apply to any general meeting of the members, with all references to trustees to be taken as references to members.
 
@@ -309,11 +309,11 @@ The resolution in writing may compromise several copies to which one or more mem
 
   (1) Subject to sub-clause (2) of this clause, all decisions of the charity trustees, or of a committee of charity trustees, shall be valid notwithstanding the participation in any vote of a charity trustee:
 
-    * who was disqualified from holding office;
+    ** who was disqualified from holding office;
 
-    * who had previously retired or who had been obliged by the constitution to vacate office;
+    ** who had previously retired or who had been obliged by the constitution to vacate office;
 
-    * who was not entitled to vote on the matter, whether by reasonof a conflict of interest or otherwise;
+    ** who was not entitled to vote on the matter, whether by reasonof a conflict of interest or otherwise;
   
   if, without the vote of that charity trustee and that charity trustee being counted in the quorum, the decision has been made by a majority of the charity trustees at a quorate meeting.
 
@@ -333,7 +333,7 @@ The resolution in writing may compromise several copies to which one or more mem
 
 ## 22. Use of electronic communications
 
-  (1) *General*
+  (1) **General**
 
   The CIO will comply with the requirements of the Communications Provisions in the General Regulations and in particular:
 
@@ -357,11 +357,11 @@ The charity trustees must keep minutes of all:
 
   (3) meetings of the charity trustees and committees of charity trustees including:
 
-    * the names of the trustees present at the meeting;
+    ** the names of the trustees present at the meeting;
 
-    * the decisions made at the meetings; and
+    ** the decisions made at the meetings; and
 
-    * where appropriate the reasons for the decisions;
+    ** where appropriate the reasons for the decisions;
 
   (4) decisions made by the charity trustees otherwise than in meetings.
 
@@ -433,7 +433,7 @@ As provided by sections 224-227 of the Charities Act 2011:
 
 In this constitution:
 
-*"connected person"* means:
+**"connected person"** means:
 
   (a) a child, parent, grandchild, grandparent, brother or sister of the charity trustee;
 
@@ -455,21 +455,21 @@ In this constitution:
 
   Section 118 of the Charities Act 2011 apply for the purposes of interpreting the terms used in this constitution.
 
-*"General Regulations"* means the Charitable Incorporated Organisations (General) Regulations 2012.
+**"General Regulations"** means the Charitable Incorporated Organisations (General) Regulations 2012.
 
-*"Dissolution Regulations"* means the Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012.
+**"Dissolution Regulations"** means the Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012.
 
-The *"Communiations Provisions"* means the Communications Provisions in Part 10, Chapter 4 of the General Regulations.
+The **"Communiations Provisions"** means the Communications Provisions in Part 10, Chapter 4 of the General Regulations.
 
-*"charity trustee"* means a charity trustee of the CIO.
+**"charity trustee"** means a charity trustee of the CIO.
 
-A *"poll"* means a counted vote or ballot, usually (but not necessarily) in writing.
+A **"poll"** means a counted vote or ballot, usually (but not necessarily) in writing.
 
 # Appendix
 
 ## General meetings of members
 
-  (4) *Proxy voting*
+  (4) **Proxy voting**
 
     (a) Any member of the CIO may appoint another person as a proxy to exercise all or any of that member's rights to attend, speak and vote at a genreal meeting of the CIO. Proxies myst be appointed by a notice in writing (a "proxy notice") which:
 
@@ -499,7 +499,7 @@ A *"poll"* means a counted vote or ballot, usually (but not necessarily) in writ
 
     (h) If a proxy notice is not signed or authenticated by the member appointing the proxy, it must be accompanied by written evience that the person who signed or authenticated it on that member's behalf had authority to do so.
 
-  (5) *Postal Voting*
+  (5) **Postal Voting**
 
     (a) The CIO may, if the charity trustees so decide, allow the members to vote by post or electronic mail ("email") to elect charity trustees or to make a decision on any matter that is being decided at a general meeting of the members.
 
@@ -533,11 +533,11 @@ A *"poll"* means a counted vote or ballot, usually (but not necessarily) in writ
 
 ## Use of electronic communications
 
-  (2) *To the CIO*
+  (2) **To the CIO**
 
   Any member or charity trustee of the CIO may communicate electronically with the CIO to an address specified by the CIO for the purpose, so long as the communication is authenticated in a manner which is satisfactory to the CIO.
 
-  (3) *By the CIO*
+  (3) **By the CIO**
 
     (a) Any member of charity trustee of the CIO, by providing the CIO with his or her email address or similar, is taken to have agreed to receive communications from the CIO in electronic form at that address, unless the member has indicated to the CIO his or her unwillingness to receive such communications in that form.
 
